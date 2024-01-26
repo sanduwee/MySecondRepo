@@ -6,11 +6,11 @@
         {
             Console.WriteLine("Hello, World!");
 
-            int x = 10;
+            int variableX = 10;
             for(int i = 0; i < 10; i++)
             {
-                x = x + i;
-                Console.WriteLine(x);
+                variableX = variableX + i;
+                Console.WriteLine(variableX);
             }
         }
     }
