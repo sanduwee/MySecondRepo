@@ -8,5 +8,6 @@ namespace SecondRepo
 {
     internal class AddingNewClass
     {
+        //
     }
 }
